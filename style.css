@@ -1,0 +1,30 @@
+.aboutParagraph {
+  width: 80%;
+  color: blueviolet;
+}
+
+.faqParagraph {
+  width: 80%;
+  color: blueviolet;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+nav a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(70, 46, 46);
+}
+
+h1 {
+  font-size: 20px;
+}
