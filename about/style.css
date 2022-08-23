@@ -1,0 +1,55 @@
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  font-size: 40px;
+  margin: 0px;
+}
+
+h3 {
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+h4 {
+  margin-top: 0px;
+}
+
+a {
+  margin: 0px;
+}
+
+.mailAdress {
+  margin-bottom: 0px;
+}
+
+.aboutInfo {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+  width: 60%;
+}
+
+.articleWrapper {
+  display: flex;
+  justify-items: center;
+  margin-left: 60px;
+  margin-right: 69px;
+}
+
+.aboutArticle {
+  border-radius: 10%;
+  color: rgb(0, 0, 0);
+  width: 60%;
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+}
+
+.aboutParagraph {
+}

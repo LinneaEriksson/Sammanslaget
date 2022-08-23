@@ -2,7 +2,7 @@
 
 # Creators
 
-    Mathilda Olséen - UX
-    Oskar Nordin - Game Programmer
-    Damir Pejinovic - Game Artist
+    Mathilda Olséen - UX Designer
+    Oskar Nordin - Game Creator Programmer
+    Damir Pejinovic - Game Creator Artist
     Linnéa Eriksson - Web Developer
