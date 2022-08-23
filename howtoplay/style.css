@@ -15,5 +15,6 @@ main {
 }
 
 h2 {
+  font-family: myWebFont;
   font-size: 40px;
 }
