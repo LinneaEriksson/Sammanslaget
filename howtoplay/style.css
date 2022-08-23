@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.playInfo {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+  width: 60%;
+  text-align: center;
+}

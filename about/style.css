@@ -33,6 +33,7 @@ a {
   flex-direction: column;
   margin-bottom: 20px;
   width: 60%;
+  text-align: center;
 }
 
 .articleWrapper {

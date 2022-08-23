@@ -18,6 +18,8 @@ nav a {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
   padding: 50px;
   font-size: 20px;
   text-decoration: none;
@@ -26,5 +28,5 @@ nav a {
 
 h1 {
   font-size: 20px;
-  margin-right: 30px;
+  margin-right: 100px;
 }
