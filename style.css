@@ -2,11 +2,6 @@ body {
   background-color: #fede97;
 }
 
-.faqParagraph {
-  width: 80%;
-  color: blueviolet;
-}
-
 nav {
   display: flex;
   flex-direction: row;
