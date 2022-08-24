@@ -55,6 +55,11 @@ a {
   background-color: rgb(255, 255, 255);
   margin: 10px;
   font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0px 15px 15px 15px rgba(0, 0, 0, 0.05);
+}
+
+.aboutArticle:hover {
+  transform: scale(1.1);
 }
 
 .aboutArticle a {
@@ -85,4 +90,12 @@ footer a {
 }
 footer a:hover {
   color: #a1b052;
+}
+
+@media only screen and (max-width: 720px) {
+  h3 {
+    font-size: 22px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
 }
