@@ -10,6 +10,7 @@ h3 {
 }
 
 h4 {
+  color: #008c9d;
   margin-top: 0px;
 }
 
@@ -80,6 +81,7 @@ footer {
 
 footer a {
   color: rgb(0, 0, 0);
+  text-align: center;
 }
 footer a:hover {
   color: #a1b052;
