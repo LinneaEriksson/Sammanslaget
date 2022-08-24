@@ -6,6 +6,7 @@ main {
 h3 {
   font-size: 30px;
   margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 h4 {
@@ -61,4 +62,18 @@ a {
 }
 
 .aboutParagraph {
+  font-size: 14px;
+}
+
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 40px;
+  margin: auto;
+}
+
+footer a {
+  color: rgb(0, 0, 0);
+}
+footer a:hover {
+  color: #a1b052;
 }
