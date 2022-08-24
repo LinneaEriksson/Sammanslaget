@@ -12,9 +12,49 @@ main {
   margin-bottom: 20px;
   width: 60%;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-h2 {
-  font-family: myWebFont;
-  font-size: 40px;
+h3 {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  margin-bottom: 30px;
+  margin-top: 0px;
+  font-weight: 100;
+}
+
+.HowToPlayParagrap {
+  font-size: 14px;
+  width: 292px;
+  margin-left: 30px;
+}
+
+.articleWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.howToPlayArticle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 5%;
+  color: rgb(0, 0, 0);
+  width: 500px;
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+  margin: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.howToPlayArticle div {
+  display: flex;
+  flex-direction: row;
+}
+
+img {
 }

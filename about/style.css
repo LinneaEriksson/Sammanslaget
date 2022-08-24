@@ -27,7 +27,7 @@ a {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   width: 70%;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -39,16 +39,20 @@ a {
 
 .articleWrapper {
   display: flex;
+  flex-wrap: wrap;
   justify-items: center;
-  margin-left: 60px;
-  margin-right: 69px;
+  justify-content: center;
+  /* margin-left: 60px;
+  margin-right: 69px; */
 }
 
 .aboutArticle {
   border-radius: 10%;
   color: rgb(0, 0, 0);
-  width: 60%;
+  width: 240px;
   padding: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-color: rgb(255, 255, 255);
   margin: 10px;
   font-family: Arial, Helvetica, sans-serif;
@@ -63,6 +67,11 @@ a {
 
 .aboutParagraph {
   font-size: 14px;
+}
+
+.aboutParagraphWithoutLink {
+  font-size: 14px;
+  margin-top: 34px;
 }
 
 footer {
