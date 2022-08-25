@@ -84,11 +84,11 @@ footer {
   margin: auto;
 }
 
-footer a {
+.aboutInfo a {
   color: rgb(0, 0, 0);
   text-align: center;
 }
-footer a:hover {
+.aboutInfo a:hover {
   color: #a1b052;
 }
 
