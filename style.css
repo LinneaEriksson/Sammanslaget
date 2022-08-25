@@ -159,3 +159,9 @@ h1 {
     margin-top: 15px;
   }
 }
+
+@media only screen and (max-width: 400px) {
+  nav a {
+    font-size: 12px;
+  }
+}
