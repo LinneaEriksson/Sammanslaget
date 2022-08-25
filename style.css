@@ -102,14 +102,34 @@ h1 {
 
 @media only screen and (max-width: 1000px) {
   nav a {
-    font-size: 20px;
-    /* height: 20px; */
+    font-size: 25px;
+  }
+
+  .logo {
+    width: 200px;
+  }
+
+  nav {
+    margin-left: 50px;
+    margin-right: 50px;
   }
 }
 
 @media only screen and (max-width: 720px) {
   h2 {
     font-size: 30px;
+  }
+
+  nav a {
+    font-size: 20px;
+  }
+
+  .logo {
+    width: 150px;
+  }
+
+  nav a:last-child {
+    margin-left: 30px;
   }
 }
 
@@ -120,5 +140,12 @@ h1 {
 
   .mobileWrapper {
     display: block;
+  }
+  .logo {
+    width: 100px;
+  }
+  nav {
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
