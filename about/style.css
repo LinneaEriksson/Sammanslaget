@@ -3,13 +3,13 @@ main {
   flex-direction: column;
 }
 
-h3 {
+h2 {
   font-size: 30px;
   margin-bottom: 0px;
   margin-top: 0px;
 }
 
-h4 {
+h3 {
   color: #008c9d;
   margin-top: 0px;
 }
@@ -99,7 +99,7 @@ footer {
   margin-bottom: 30px;
 }
 @media only screen and (max-width: 720px) {
-  h3 {
+  h2 {
     font-size: 22px;
     margin-bottom: 0px;
     margin-top: 0px;
